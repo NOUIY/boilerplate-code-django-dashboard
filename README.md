@@ -4,7 +4,7 @@ Reference codebase used by AppSeed in all [Django Dashboards](https://appseed.us
 
 <br />
 
-> Built with [App Generator](https://appseed.us/generator/soft-ui-dashboard/), Timestamp: `2022-06-06 13:56`
+> 🚀 Built with [App Generator](https://appseed.us/generator/), Timestamp: `2022-06-06 13:56`
 
 - `Up-to-date dependencies`
 - Database: `sqlite`
