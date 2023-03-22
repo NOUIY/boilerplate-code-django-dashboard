@@ -1,9 +1,16 @@
 # Change Log
 
-## [2.0.9] Unreleased
-### Improvements
+## [2.0.9] 2023-03-22
+### Changes
 
-- 2022-06-06: Minor tuning on Registration page
+- Design: [Django Admin Soft](https://github.com/app-generator/django-admin-soft-dashboard) `v1.0.10`
+- DOCS Update (readme). New sections:
+  - `How to customize the theme`
+  - Render deployment
+- Configure the project to use `home/templates`
+- Added `custom-index` sample
+- `Fix Docker` Execution
+  - `Update Settings`: ALLOWED_HOSTS, CSRF_TRUSTED_ORIGINS `sections`
 
 ## [2.0.8] 2022-06-06
 ### Improvements
