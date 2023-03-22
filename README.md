@@ -1,9 +1,9 @@
-# [Django Dashboard Boilerplate](https://appseed.us/boilerplate-code/django-dashboard/)
+# [Boilerplate Django Dashboard](https://appseed.us/boilerplate-code/django-dashboard/)
 
 Reference codebase used by `AppSeed` in all Django [Dashboard](https://appseed.us/admin-dashboards/django/) starters - the product uses an amazing design crafted by `Creative-Tim`.
 
-- 👉 [Django Dashboard Boilerplate](https://appseed.us/boilerplate-code/django-dashboard/) - `Product page`
-- 👉 [Django Boilerplate](https://django-soft-dash.onrender.com/) - `LIVE Demo`
+- 👉 [Boilerplate Django Dashboard](https://appseed.us/boilerplate-code/django-dashboard/) - `Product page`
+- 👉 [Boilerplate Django Dashboard](https://django-soft-dash.onrender.com/) - `LIVE Demo`
 - 👉 Free [Support](https://appseed.us/support/) via `Email` & `Discord`
 
 <br />
